@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+chromadb
+torch
+google-genai
+transformers
+huggingface_hub
+psycopg2-binary
+pgvector

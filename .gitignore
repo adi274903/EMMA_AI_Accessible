@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+
+# Data: the corpus, the vector store, survey responses and response dumps are not published
+*.csv
+*.xlsx
+*.ipynb
+medical_vectorstore/
+
+# Generated audio and other run artefacts
+*.wav
+*.mp3
+.streamlit/
